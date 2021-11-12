@@ -5,6 +5,10 @@
       <map>
         <entry key="..\:/pgm/android_Project/ch06_viewFlipper_tabHost/tabhost/src/main/res/layout/activity_main.xml" value="0.1814814814814815" />
         <entry key="..\:/pgm/android_Project/ch06_viewFlipper_tabHost/viewFlipper/src/main/res/layout/activity_main.xml" value="0.1814814814814815" />
+        <entry key="..\:/pgm/android_Project/ch06_viewFlipper_tabHost/webview/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1234375" />
+        <entry key="..\:/pgm/android_Project/ch06_viewFlipper_tabHost/webview/src/main/res/drawable/ic_launcher1_background.xml" value="0.1234375" />
+        <entry key="..\:/pgm/android_Project/ch06_viewFlipper_tabHost/webview/src/main/res/drawable/ic_launcher_background.xml" value="0.1234375" />
+        <entry key="..\:/pgm/android_Project/ch06_viewFlipper_tabHost/webview/src/main/res/layout/activity_main.xml" value="0.1648148148148148" />
       </map>
     </option>
   </component>

@@ -14,6 +14,7 @@
             <option value="$PROJECT_DIR$/actionbar_and_fragment" />
             <option value="$PROJECT_DIR$/tabhost" />
             <option value="$PROJECT_DIR$/viewFlipper" />
+            <option value="$PROJECT_DIR$/webview" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

@@ -10,3 +10,4 @@ rootProject.name = "ch06_viewFlipper_tabHost"
 include ':viewFlipper'
 include ':tabhost'
 include ':actionbar_and_fragment'
+include ':webview'

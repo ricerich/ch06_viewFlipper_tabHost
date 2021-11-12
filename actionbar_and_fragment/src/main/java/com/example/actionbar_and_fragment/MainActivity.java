@@ -14,12 +14,9 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.LinearLayout;
 
-import com.google.android.material.tabs.TabLayout;
-
 @SuppressWarnings("deprecation")
 public class MainActivity extends AppCompatActivity implements ActionBar.TabListener 
 {
-
     ActionBar.Tab tab1, tab2,tab3;//프래그먼트랑 연결해야하기 때문에 멤버변수로 격상되었음
     
     @Override
@@ -31,7 +28,6 @@ public class MainActivity extends AppCompatActivity implements ActionBar.TabList
         //2."탭" 만들기 - 액션바에 들어갈 탭
         //3."프레그먼트" 만들기
         //4. 탭과 프래그먼트 연결하기
-
 
         //1."액션바" 만들기
         ActionBar bar = getSupportActionBar();
